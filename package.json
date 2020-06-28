@@ -27,7 +27,7 @@
   },
   "bundleDependencies": false,
   "dependencies": {
-    "agile-npm": "git+https://github.com/skwerlzu/agile-npm.git",
+    "agile-npm": "git+https://github.com/informedecommerce/agile-npm.git",
     "aws-sdk": "^2.706.0",
     "debounce": "^1.1.0",
     "vue": "^2.5.13",
