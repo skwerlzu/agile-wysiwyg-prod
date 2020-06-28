@@ -94,8 +94,8 @@
   "name": "agile-wysiwyg",
    "repository": {
     "type": "git",
-    "url": "git+https://github.com/informedecommerce/agile-npm.git"
-  },
+    "url": "git+https://github.com/skwerlzu/agile-wysiwyg-prod.git"
+},
   "scripts": {
     "build": "npm run build:prod",
     "build:demo": "BABEL_ENV=production BUILD=demo DIR=demo node build/build.js",
