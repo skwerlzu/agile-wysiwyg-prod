@@ -9,7 +9,7 @@
 ### Install agile-wysiwyg
 
 ``` bash
-meteor npm install agile-npm@https://github.com/skwerlzu/agile-wysiwyg-prod.git --save
+meteor npm install agile-wysiwyg@https://github.com/skwerlzu/agile-wysiwyg-prod.git --save
 ```
 
 In your `main.js`:
