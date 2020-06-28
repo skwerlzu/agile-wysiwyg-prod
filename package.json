@@ -1,5 +1,5 @@
 {
-  "_from": "git+https://github.com/skwerlzu/agile-wysiwyg.git",
+  "_from": "git+https://github.com/skwerlzu/agile-wysiwyg-prod.git",
   "_id": "agile-wysiwyg@1.0.0",
   "_inBundle": false,
   "_integrity": "",
@@ -7,19 +7,19 @@
   "_phantomChildren": {},
   "_requested": {
     "type": "git",
-    "raw": "agile-wysiwyg@git+https://github.com/skwerlzu/agile-wysiwyg.git",
+    "raw": "agile-wysiwyg@git+https://github.com/skwerlzu/agile-wysiwyg-prod.git",
     "name": "agile-wysiwyg",
     "escapedName": "agile-wysiwyg",
-    "rawSpec": "git+https://github.com/skwerlzu/agile-wysiwyg.git",
-    "saveSpec": "git+https://github.com/skwerlzu/agile-wysiwyg.git",
-    "fetchSpec": "https://github.com/skwerlzu/agile-wysiwyg.git",
+    "rawSpec": "git+https://github.com/skwerlzu/agile-wysiwyg-prod.git",
+    "saveSpec": "git+https://github.com/skwerlzu/agile-wysiwyg-prod.git",
+    "fetchSpec": "https://github.com/skwerlzu/agile-wysiwyg-prod.git",
     "gitCommittish": null
   },
   "_requiredBy": [
     "/"
-  ],
+  ], 
 
-  "_spec": "agile-wysiwyg@git+https://github.com/skwerlzu/agile-wysiwyg.git",
+  "_spec": "agile-wysiwyg@git+https://github.com/skwerlzu/agile-wysiwyg-prod.git",
 
   "author": {
     "name": "Gregory",
@@ -27,7 +27,7 @@
   },
   "bundleDependencies": false,
   "dependencies": {
-    "agile-npm": "git+https://github.com/informedecommerce/agile-npm.git",
+    "agile-npm": "git+https://github.com/skwerlzu/agile-wysiwyg-prod.git",
     "aws-sdk": "^2.706.0",
     "debounce": "^1.1.0",
     "vue": "^2.5.13",
@@ -92,6 +92,10 @@
   "license": "MIT",
   "main": "dist/vueWysiwyg.js",
   "name": "agile-wysiwyg",
+   "repository": {
+    "type": "git",
+    "url": "git+https://github.com/informedecommerce/agile-npm.git"
+  },
   "scripts": {
     "build": "npm run build:prod",
     "build:demo": "BABEL_ENV=production BUILD=demo DIR=demo node build/build.js",
