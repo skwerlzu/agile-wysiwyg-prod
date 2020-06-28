@@ -18,9 +18,9 @@
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "git+https://github.com/skwerlzu/agile-wysiwyg.git#ed4ef66f1da5581bbd42c803a26aa9a9710c431f",
+
   "_spec": "agile-wysiwyg@git+https://github.com/skwerlzu/agile-wysiwyg.git",
-  "_where": "/home/agile/clients/trakfind/jason",
+
   "author": {
     "name": "Gregory",
     "email": "gregory.mkv@gmail.com"
